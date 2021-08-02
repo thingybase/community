@@ -16,10 +16,12 @@ Follow the status of features at https://github.com/thingybase/community/project
 
 What do the statuses mean?
 
-* **Under consideration** - this is where ideas that are not fully formed started. Here they'll collect more feedback or wait until it can be worked on.
+* **Under consideration** - This is where ideas that are not fully formed started. Here they'll collect more feedback or wait until it can be worked on.
 
-* **Planned** - these are ideas that will likely be implemented. The ideas are mostly baked so you can get a good idea of what's coming.
+* **Planned** - These are ideas that will likely be implemented. The ideas are mostly baked so you can get a good idea of what's coming.
 
-* **In progress** - an engineer is building the feature! Its likely that the feature will be pushed to Thingybase so that you can try it out and give feedback as its being built.
+* **In progress** - An engineer is building the feature! Its likely that the feature will be pushed to Thingybase so that you can try it out and give feedback as its being built.
 
-* **Done** - The feature was built and shipped. Give feedback on how it turned out.
+* **Cool down** - The feature is complete and shipped to production, but additional cleanup work is needed or feedback is being requested. You can expect smaller changes from feedback or cleanup to happen at this point.
+
+* **Done** - The feature was built and shipped. You can still give feedback on how it turned out, but its likely that feedback will be incorporated into a new story.
